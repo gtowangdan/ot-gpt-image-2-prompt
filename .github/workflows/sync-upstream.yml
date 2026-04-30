@@ -1,0 +1,64 @@
+name: Sync from upstream
+
+on:
+  schedule:
+    - cron: '0 18 * * *'   # 每天 UTC 18:00（北京时间次日 02:00）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  UPSTREAM_REPO: https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts.git
+  UPSTREAM_BRANCH: main
+  TARGET_BRANCH: trunk
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout target branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ env.TARGET_BRANCH }}
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure git
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Add upstream and fetch
+        run: |
+          git remote add upstream "$UPSTREAM_REPO"
+          git fetch upstream "$UPSTREAM_BRANCH"
+
+      - name: Merge upstream into target branch
+        id: merge
+        run: |
+          set -e
+          BEFORE=$(git rev-parse HEAD)
+          if git merge --ff-only "upstream/${UPSTREAM_BRANCH}"; then
+            echo "mode=fast-forward" >> "$GITHUB_OUTPUT"
+          else
+            git merge --no-edit --no-ff \
+              -m "chore: sync upstream ${UPSTREAM_BRANCH} ($(date -u +%Y-%m-%d))" \
+              "upstream/${UPSTREAM_BRANCH}"
+            echo "mode=merge-commit" >> "$GITHUB_OUTPUT"
+          fi
+          AFTER=$(git rev-parse HEAD)
+          if [ "$BEFORE" = "$AFTER" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true"  >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Push
+        if: steps.merge.outputs.changed == 'true'
+        run: git push origin "$TARGET_BRANCH"
+
+      - name: Summary
+        run: |
+          echo "Mode:    ${{ steps.merge.outputs.mode }}"
+          echo "Changed: ${{ steps.merge.outputs.changed }}"
