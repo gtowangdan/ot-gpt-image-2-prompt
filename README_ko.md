@@ -64,13 +64,21 @@ Evolink에서 사용해 보기: [GPT-Image-2](https://evolink.ai/models?utm_sour
 - [📰 News](#news)
 - [📑 Menu](#menu)
 - [🛒 E-commerce Cases](#e-commerce-cases)
+  - [Open category README](cases/ecommerce_ko.md)
 - [📣 Ad Creative Cases](#ad-creative-cases)
+  - [Open category README](cases/ad-creative_ko.md)
 - [🍌 Portrait & Photography Cases](#portrait-photography-cases)
+  - [Open category README](cases/portrait_ko.md)
 - [🎨 Poster & Illustration Cases](#poster-illustration-cases)
+  - [Open category README](cases/poster_ko.md)
 - [🧍 Character Design Cases](#character-design-cases)
+  - [Open category README](cases/character_ko.md)
 - [📱 UI & Social Media Mockup Cases](#ui-social-media-mockup-cases)
+  - [Open category README](cases/ui-social_ko.md)
 - [🧪 Comparison & Community Examples](#comparison-community-examples)
+  - [Open category README](cases/comparison_ko.md)
 - [🙏 Acknowledge](#acknowledge)
+
 ## 🛒 E-commerce Cases
 
 > See all cases → [cases/ecommerce.md](cases/ecommerce.md)

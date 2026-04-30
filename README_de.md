@@ -58,13 +58,21 @@ Wenn dir das nuetzt, gib dem Repository gern einen Star. ⭐
 - [📰 News](#news)
 - [📑 Menu](#menu)
 - [🛒 E-commerce Cases](#e-commerce-cases)
+  - [Open category README](cases/ecommerce_de.md)
 - [📣 Ad Creative Cases](#ad-creative-cases)
+  - [Open category README](cases/ad-creative_de.md)
 - [🍌 Portrait & Photography Cases](#portrait-photography-cases)
+  - [Open category README](cases/portrait_de.md)
 - [🎨 Poster & Illustration Cases](#poster-illustration-cases)
+  - [Open category README](cases/poster_de.md)
 - [🧍 Character Design Cases](#character-design-cases)
+  - [Open category README](cases/character_de.md)
 - [📱 UI & Social Media Mockup Cases](#ui-social-media-mockup-cases)
+  - [Open category README](cases/ui-social_de.md)
 - [🧪 Comparison & Community Examples](#comparison-community-examples)
+  - [Open category README](cases/comparison_de.md)
 - [🙏 Acknowledge](#acknowledge)
+
 ## 🛒 E-commerce Cases
 
 > See all cases → [cases/ecommerce.md](cases/ecommerce.md)

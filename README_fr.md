@@ -58,13 +58,21 @@ Si cela vous est utile, pensez a mettre une etoile. ⭐
 - [📰 News](#news)
 - [📑 Menu](#menu)
 - [🛒 E-commerce Cases](#e-commerce-cases)
+  - [Open category README](cases/ecommerce_fr.md)
 - [📣 Ad Creative Cases](#ad-creative-cases)
+  - [Open category README](cases/ad-creative_fr.md)
 - [🍌 Portrait & Photography Cases](#portrait-photography-cases)
+  - [Open category README](cases/portrait_fr.md)
 - [🎨 Poster & Illustration Cases](#poster-illustration-cases)
+  - [Open category README](cases/poster_fr.md)
 - [🧍 Character Design Cases](#character-design-cases)
+  - [Open category README](cases/character_fr.md)
 - [📱 UI & Social Media Mockup Cases](#ui-social-media-mockup-cases)
+  - [Open category README](cases/ui-social_fr.md)
 - [🧪 Comparison & Community Examples](#comparison-community-examples)
+  - [Open category README](cases/comparison_fr.md)
 - [🙏 Acknowledge](#acknowledge)
+
 ## 🛒 E-commerce Cases
 
 > See all cases → [cases/ecommerce.md](cases/ecommerce.md)

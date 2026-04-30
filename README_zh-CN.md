@@ -59,13 +59,21 @@
 - [📰 News](#news)
 - [📑 Menu](#menu)
 - [🛒 E-commerce Cases](#e-commerce-cases)
+  - [Open category README](cases/ecommerce_zh-CN.md)
 - [📣 Ad Creative Cases](#ad-creative-cases)
+  - [Open category README](cases/ad-creative_zh-CN.md)
 - [🍌 Portrait & Photography Cases](#portrait-photography-cases)
+  - [Open category README](cases/portrait_zh-CN.md)
 - [🎨 Poster & Illustration Cases](#poster-illustration-cases)
+  - [Open category README](cases/poster_zh-CN.md)
 - [🧍 Character Design Cases](#character-design-cases)
+  - [Open category README](cases/character_zh-CN.md)
 - [📱 UI & Social Media Mockup Cases](#ui-social-media-mockup-cases)
+  - [Open category README](cases/ui-social_zh-CN.md)
 - [🧪 Comparison & Community Examples](#comparison-community-examples)
+  - [Open category README](cases/comparison_zh-CN.md)
 - [🙏 Acknowledge](#acknowledge)
+
 ## 🛒 E-commerce Cases
 
 > See all cases → [cases/ecommerce.md](cases/ecommerce.md)
