@@ -1005,3 +1005,104 @@ Ultra-realistic lifestyle portrait of a smiling young woman standing on a desert
 <img src="../images/portrait_case158/output.jpg" width="500">
 
 ---
+
+### Case 159: Frieren Ethereal Anime Portrait
+
+**Source**: [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2052978965841600854)
+
+**Prompt**:
+```
+GPT image 2 on ChatGPT 
+
+Reverse haze, diffused blur, soft focus, close-up shot of an ethereal and pure beautiful girl or boy inspired by the character Frieren from Frieren: Beyond Journey’s End. Blurred portrait and scenery, emphasizing the chaotic beauty of flowing dynamic hair. Extremely attractive appearance, dreamy and elusive atmosphere, Rembrandt lighting, high saturation, reflections and refractions, rich texture details, glowing bloom blur diffusion, low noise, subtle film grain texture, minimalist style, soft-focus aesthetics, emotional impressionism, avant-garde visual art aesthetics, cinematic luxury composition, masterpiece-level film aesthetics. CGI, Unreal Engine 5 rendering, Octane Render.
+```
+
+**Output**:
+
+<img src="../images/portrait_case159/output.jpg" width="500">
+
+---
+
+### Case 160: Photo to Tokyo Anime Manga Poster
+
+**Source**: [@zhongying14](https://x.com/zhongying14/status/2052604233749250297)
+
+**Prompt**:
+```
+把任意人物照片变成日系热血少年漫画
+
+【每日 GPT Image 2 提示词分享】👇
+
+请基于用户上传的真人照片进行二创，将照片中的人物转化成日系热血少年漫画风 / 都市街头动漫角色海报。
+
+请保留每个人的真实身份特征，包括脸型、五官比例、发型基础、肤色、年龄感、体型关系和整体气质。请重新创作一张全新的全身动漫插画，让所有人物完整入镜，从头到脚都清晰可见。
+
+画风参考：日系少年漫画彩页、都市街头动漫海报、干净有力的黑色线稿、明显动漫化五官、锋利有层次的发丝、清晰衣服褶皱、轻微铅笔草稿感、局部水彩或马克笔上色、低饱和色调、纸张纹理。
+
+请为人物自由设计 Tokyo street fashion 穿搭，风格年轻、松弛、酷感、现实可穿。可以使用 oversized 外套、短款上衣、宽松 T 恤、工装裤、阔腿裤、百褶裙、帆布鞋、厚底鞋、单肩包、耳机、项链、手机、咖啡杯等元素。多人画面中，穿搭需要有颜色或配饰呼应，但不要完全一样。
+
+请自由设计更有动漫海报感的站位和姿势，不要普通并排合照。可以是一前一后、背靠背、走路抓拍、靠墙、坐在台阶与站立错位、一个看镜头一个看侧方、一个走在前面一个回头，整体要有角色关系和分镜感。
+
+请根据人物气质、人数、姿势和穿搭，自由创作一个日系都市漫画场景。可以是东京街头巷口、便利店门口、地铁站出口、旧公寓楼下、学校天台、街边楼梯、复古商店橱窗前、自动贩卖机旁、咖啡店外、夜晚路灯下、雨后街道、城市天桥下、旧海报墙、漫画感城市街区等。
+
+背景可以加入线稿、喷绘、涂鸦、旧海报、门牌号、街头贴纸、手写文字、墨水滴落、箭头、星星、皇冠、小表情、砖墙、台阶、玻璃窗、路牌、自动贩卖机、栏杆、电线、街灯等元素。背景要有空间层次和生活感。
+
+整体氛围：日系少年漫画、都市街头、青春、松弛、酷感、轻微叛逆、时尚杂志插画感、漫画彩页感。
+```
+
+**Output**:
+
+<img src="../images/portrait_case160/output.jpg" width="500">
+
+---
+
+### Case 161: Beetle-Inspired Couture Fashion Sheet
+
+**Source**: [@GeekCatX](https://x.com/GeekCatX/status/2052692688135463113)
+
+**Prompt**:
+```
+GPT Image 2 生成 自然灵感时尚礼服设计
+
+提示词
+
+时尚设计稿 / 高定礼服设计页，主题灵感来自 {{灵感主题}}。画面为专业服装设计展示板构图：中央是一位全身站立的真人女模特，真实感、写实皮肤质感、自然五官、高级时装摄影氛围，穿着一件受 {{灵感主题}} 启发的高级定制礼服，礼服整体廓形为 {{礼服廓形}}。服装设计需明显提取灵感对象的色彩、几何形态、晶体结构、透明层次与纹理特征，并转化为礼服的裙摆、胸衣、肩颈结构、刺绣、亮片、薄纱叠层、欧根纱和缎面反光细节。
+
+版式要求：左上角放置 {{灵感主题}} 的精致手绘灵感草图或说明性插图；右侧放置礼服黑白技术线稿，清晰展示服装轮廓与结构，并配有手写感英文/法文风格设计备注，注明面料、分层、剪裁、晶体装饰、透明材质、立体细节。背景保持干净纯白，带少量设计师签名式潦草笔记、草图标记和时装工作室批注，整体呈现专业 fashion design sheet / couture concept board 的视觉效果。
+
+风格要求：真人模特写实感 + 高级时装设计手稿融合表现，真实模特主体、服装材质细节极其精致，软水彩与数字插画混合质感，但人物必须接近时尚大片级真实感，不要卡通，不要动漫，不要夸张二次元。光线柔和均匀，无硬阴影，画面干净高级，面料表现清晰：缎面、薄纱、欧根纱、珠绣、透明层叠、冰晶折射感。超清4K，细节丰富，审美高级，适合品牌级服装提案展示。
+
+灵感主题：甲壳虫
+比例：3:4
+```
+
+**Output**:
+
+<img src="../images/portrait_case161/output.jpg" width="500">
+
+---
+
+### Case 162: Paper Diorama Couple Portrait
+
+**Source**: [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2052646973774401654)
+
+**Prompt**:
+```
+Images by GPT Image 2 on Chatgpt.
+
+Prompt 👇
+
+Transform the uploaded portrait into a whimsical handcrafted paper diorama illustration with a soft cute aesthetic. Reimagine the people using simplified layered paper shapes, rounded forms, and minimal facial details suitable for paper craft art. Preserve the affectionate pose and emotional warmth of the original image while giving everything a charming handmade appearance.
+
+Use multi-layered cut paper textures with visible cardstock depth, soft drop shadows, folded-paper edges, and delicate handcrafted imperfections. Apply a dreamy pastel color palette featuring warm cream, dusty pink, muted peach, light caramel, ivory, sage green, and soft beige tones.
+
+Create a balanced and aesthetically pleasing composition with the couple centered naturally inside a cozy decorative frame made from layered paper flowers, leaves, butterflies, tiny birds, hearts, vines, and swirly ornamental cutouts. Add playful floating elements around the characters to create movement and a magical scrapbook feeling.
+
+Simplify clothing folds, hair strands, and background details into elegant paper-cut contours while keeping recognizable expressions and gentle smiles
+```
+
+**Output**:
+
+<img src="../images/portrait_case162/output.jpg" width="500">
+
+---
