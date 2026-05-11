@@ -1106,3 +1106,166 @@ Simplify clothing folds, hair strands, and background details into elegant paper
 <img src="../images/portrait_case162/output.jpg" width="500">
 
 ---
+
+### Case 163: Low-Angle Sky Mood Portrait
+
+**Source**: [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2053416803297358135)
+
+**Prompt**:
+```
+[INPUT]
+
+- reference image: {Portrait Photo}
+
+- Date: {Today's Date}
+
+- Today's Mood: { }
+
+[Goal]
+
+Create a poster of the sky using an extreme low-angle perspective, looking up at the subject from the ground.
+
+Express today's mood through the sky, light, clouds, and color scheme.
+
+[Maintain Subject]
+
+Maintain the facial mood, hair, body shape, and clothing style of the uploaded subject.
+
+However, the face should not be shown from the front; instead, a side profile or just a slight glimpse of the jawline should be visible.
+
+[Key Composition]
+
+- The camera is almost flat on the ground.
+
+- The subject is slightly floating above the camera or in a jumping moment.
+
+- The soles of the shoes are prominently visible close to the camera.
+
+- The legs appear long with a sense of perspective.
+
+- The subject is in a side view or semi-profile.
+
+- The sky occupies most of the screen.
+
+[Sky by Mood]
+
+Create a sky that matches today's mood.
+
+Examples:
+
+- Happiness: Clear blue sky, white clouds, warm sunlight
+
+- Excitement: Pink clouds, soft sunshine
+
+- Calmness: Pale blue sky, thin clouds
+
+- Loneliness: Sunset, long shadows, empty sky
+
+- Frustration: Low, heavy clouds
+
+- Rain: Overcast sky, raindrops, wet lens texture
+
+[Text]
+
+Arrange the date and mood message in a curved line along the outline or silhouette of the figure's body.
+
+Text to include:
+
+"{Date}"
+
+"{Today's Mood}"
+
+"{Short Message}"
+
+Text should be white, rounded, and bold poster typography.
+
+Avoid overly long sentences and arrange text for easy readability.
+
+If no short message input is provided, it should be automatically generated and entered.
+
+[Style]
+
+Sentimental Sky Poster, Warm Eye View, Bottom View, Wide Angle, Cinematic Fashion Poster, Clear Film Photo, Vast Sky, Clean Typography.
+
+[Prohibited]
+- No ordinary standing poses
+- No poses where shoe soles are not visible
+- No frontal face close-ups
+- No indoor backgrounds
+- No excessive text
+- No random text
+- No watermarks/logos
+```
+
+**Output**:
+
+<img src="../images/portrait_case163/output.jpg" width="500">
+
+---
+
+### Case 164: White Streetwear Python Portrait
+
+**Source**: [@ariaxawan](https://x.com/ariaxawan/status/2053359007407210626)
+
+**Prompt**:
+```
+Ultra-realistic high-fashion editorial portrait of a beautiful young Asian woman standing confidently in a monochromatic white urban environment, wearing modern luxury white streetwear fashion. Oversized white bomber jacket, fitted white crop top, layered white cargo pants with metallic chains, white tactical sneakers, silver jewelry, subtle glossy makeup, soft matte skin texture, long voluminous ash-brown wavy hair with wispy bangs flowing naturally in the wind.
+
+A massive realistic albino python emerges behind and around her body, partially concealed within thick swirling white smoke and atmospheric fog. The snake appears lifelike with detailed scales, realistic muscle tension, natural reflections, visible texture, sharp eyes, and subtle movement. The environment is almost entirely white — white architecture, white smoke, white clothing, white textures, white lighting — creating a clean monochromatic aesthetic.
+
+Large distressed black "1989" typography dominates the background in bold industrial font, the only dark element in the entire composition. Strong contrast between the black numbers and the all-white scene.
+
+Shot like a luxury fashion campaign, realistic photography, cinematic urban atmosphere, natural skin texture, highly detailed eyes, realistic hair strands, authentic fabric folds, realistic smoke physics, dramatic directional lighting, shallow depth of field, crisp focus, realistic proportions, modern editorial photography, Vogue magazine aesthetic, street luxury styling, high dynamic range, photorealistic, ultra detailed, 85mm lens, soft cinematic shadows, studio-quality color grading, real-world textures, professional fashion photography, no fantasy elements, no CGI appearance, no cartoon style, no anime aesthetic.
+```
+
+**Output**:
+
+<img src="../images/portrait_case164/output.jpg" width="500">
+
+---
+
+### Case 165: Vintage Classroom Golden-Light Portrait
+
+**Source**: [@harboriis](https://x.com/harboriis/status/2053301168026050805)
+
+**Prompt**:
+```
+Cinematic portrait of the man in the picture (preserve 100% facial details of this man), vintage classroom. The camera is shot from a distance, with a small section of the chair's back visible in front, as if the photographer was taking the portrait discreetly or in a quiet moment. Soft, golden-yellow lighting reflects from a small window or gap in the right wall, forming diagonal lines of light that fall directly on the man's face, creating a dramatic and emotional contrast.
+The man sits alone in a chair, his feet resting on the desk, with a relaxed and cool expression, as if lost in thought.
+```
+
+**Output**:
+
+<img src="../images/portrait_case165/output.jpg" width="500">
+
+---
+
+### Case 166: Phone Reflection Mirror Portrait
+
+**Source**: [@Ciri_ai](https://x.com/Ciri_ai/status/2053535379618423118)
+
+**Prompt**:
+```
+Ultra-realistic creative portrait taken with an iPhone, identity accurately preserved from the reference image. A woman stands inside a store, facing a glass display window or a reflective wall, photographed from a slightly elevated frontal angle. She holds a smartphone horizontally in front of her face, covering her eyes and the upper part of her face. The phone's screen points at the camera and clearly displays a real-time image of her face.
+```
+
+**Output**:
+
+<img src="../images/portrait_case166/output.jpg" width="500">
+
+---
+
+### Case 167: Korean Convenience Store Portrait
+
+**Source**: [@AIWithRay](https://x.com/AIWithRay/status/2053407281719415273)
+
+**Prompt**:
+```
+Ultra-realistic cozy Korean convenience store portrait of the same woman standing in front of glowing refrigerator aisles at night wearing a fluffy pastel pink hoodie. She holds strawberry milk and a tiny cake while looking shyly toward the camera. Soft blushy makeup, glossy eyes, natural skin texture, warm fluorescent lighting mixed with iPhone flash. Tiny reflections on the drink bottles, cute romantic atmosphere, soft pink and cream tones, dreamy slice-of-life anime realism.
+```
+
+**Output**:
+
+<img src="../images/portrait_case167/output.jpg" width="500">
+
+---

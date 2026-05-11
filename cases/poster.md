@@ -3231,3 +3231,316 @@ aspect ratio 4:6
 <img src="../images/poster_case232/output.jpg" width="500">
 
 ---
+
+### Case 233: Premium Scandinavian Travel Poster
+
+**Source**: [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2053347075648278737)
+
+**Prompt**:
+```
+Create a premium editorial travel poster illustration of [DESTINATION].
+
+Style:
+
+flat vector illustration, ultra clean minimalism,
+
+mid-century modern aesthetic,
+
+editorial travel poster style (Scandinavian design inspired),
+
+no photorealism, no textures, no noise, no gradients
+
+Composition:
+
+vertical 4:5 poster layout,
+
+foreground: calm waterfront / road / natural edge
+
+midground: colorful local houses or buildings with clean geometric shapes
+
+background: iconic natural landscape or mountain of [DESTINATION]
+
+add 1–2 landmark structures (church, tower, bridge, etc.) subtly
+
+Architecture:
+
+simplified geometric buildings,
+
+clean edges, flat colors,
+
+slightly varied roof colors (harmonious palette, not random)
+
+Color palette:
+
+soft, cohesive, location-inspired colors
+
+pastel tones + muted contrast
+
+bright but not saturated
+
+(example: sky blue, coral, mustard, navy, soft green)
+
+Lighting:
+
+bright daylight, soft shadows,
+
+clean and fresh atmosphere
+
+Typography:
+
+add text at bottom center:
+
+"[DESTINATION]" (large, modern sans-serif, spaced letters)
+
+"[COUNTRY]" (small subtitle below)
+
+Mood:
+
+calm, clean, premium, slightly dreamy travel magazine feel
+
+Quality:
+
+ultra clean edges,
+
+perfect alignment,
+
+no distortion,
+
+high resolution, print-ready
+```
+
+**Output**:
+
+<img src="../images/poster_case233/output.jpg" width="500">
+
+---
+
+### Case 234: Watercolor City Street Travel Poster
+
+**Source**: [@Taaruk_](https://x.com/Taaruk_/status/2053495454764282108)
+
+**Prompt**:
+```
+A detailed watercolor travel poster of a lively city street, hand-painted urban sketch style, soft ink outlines, watercolor splashes, architectural detail, fashionable pedestrians walking through a busy avenue, cozy cafés and local shops, cinematic perspective, warm natural lighting, elegant travel magazine composition, large stylish city name typography at the top left, subtitle in handwritten script, subtle paper texture, atmospheric depth, realistic urban life, pastel earth tones, loose brush strokes, travel journal aesthetic, highly detailed, artistic tourism poster, European/Japanese street illustration vibe, white margin layout, premium editorial design
+```
+
+**Output**:
+
+<img src="../images/poster_case234/output.jpg" width="500">
+
+---
+
+### Case 235: Mid-Century 3-Color City Poster
+
+**Source**: [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2053523890744545437)
+
+**Prompt**:
+```
+Create a vertical mid-century travel poster for [CITY NAME] featuring [LANDMARK]. Use a strict 3-color palette: cream paper, black technical linework, and [COLOR].
+Style: Minimalist isometric bird's-eye view with ultra-fine hatching and screen-print texture.
+Color usage: Solid flat [COLOR] for the entire sky and small accents on roofs or streets. No gradients.
+Text: Bold sans-serif "[CITY NAME]" at top in cream, with the local language name in smaller cream text below.
+```
+
+**Output**:
+
+<img src="../images/poster_case235/output.jpg" width="500">
+
+---
+
+### Case 236: Y2K Kawaii Editorial Poster
+
+**Source**: [@sha_zdiii](https://x.com/sha_zdiii/status/2053465283214651420)
+
+**Prompt**:
+```
+High-fashion kawaii Y2K editorial poster featuring a stylish young woman standing confidently in the center. Soft dewy skin, glossy lips, airy bangs, flowing hair, trendy Korean-Japanese streetwear outfit with layered accessories. Background filled with colorful retro magazine graphics, chrome elements, stars, hearts, stickers, speech bubbles, playful UI overlays, barcode designs, and nostalgic pop-art visuals. Japanese kawaii typography mixed with Korean-style fashion campaign aesthetics. Bright studio flash lighting, cinematic composition, vibrant colors, layered poster design, ultra-detailed textures, luxury fashion magazine energy, sharp focus, premium 8K editorial look.
+```
+
+**Output**:
+
+<img src="../images/poster_case236/output.jpg" width="500">
+
+---
+
+### Case 237: Camera Evolution Timeline Poster
+
+**Source**: [@AIwithkhan](https://x.com/AIwithkhan/status/2053487042605326593)
+
+**Prompt**:
+```
+Ultra detailed vertical infographic poster showing the evolution of cameras from vintage film photography to futuristic AI cinematic systems. Include realistic renders of vintage film cameras, disposable cameras, VHS camcorders, DSLR cameras, mirrorless cameras, smartphone cinema rigs, drone cameras, and futuristic AI-powered cinema cameras. Arrange them in a clean timeline layout with glowing technical callouts, cinematic labels, UI overlays, camera specs, lens details, and photography icons. Dark premium background with gold and neon blue accents, realistic textures, dramatic studio lighting, cinematic photography aesthetic, modern editorial design, high-tech sci-fi feel, ultra sharp details, magazine-quality infographic style, symmetrical composition, realistic reflections, futuristic interface graphics.
+```
+
+**Output**:
+
+<img src="../images/poster_case237/output.jpg" width="500">
+
+---
+
+### Case 238: Portrait Collage Fashion Poster
+
+**Source**: [@Mind_Boticni](https://x.com/Mind_Boticni/status/2053489348470051163)
+
+**Prompt**:
+```
+High-end portrait collage poster in vertical format. The background contains four layered rounded strips displaying black-and-white film-like images of a curly-haired male model wearing dark sunglasses in varied poses. In front, a vivid color cutout of the same character is placed to the left, dressed in an unbuttoned soft pink shirt, styled like a luxury fashion campaign with dramatic lighting and depth.
+```
+
+**Output**:
+
+<img src="../images/poster_case238/output.jpg" width="500">
+
+---
+
+### Case 239: Tokyo Street Line-Art Poster
+
+**Source**: [@Shorelyn_](https://x.com/Shorelyn_/status/2053317557747351783)
+
+**Prompt**:
+```
+Create a minimalist ultra-high-resolution travel poster in line-art style for TOKYO, portraying the city as a stylish everyday urban scene rather than a tourist postcard.
+
+MAIN COMPOSITION:
+
+Central composition features Tokyo's most iconic everyday street scene, intersection, alleyway, tram route, or pedestrian crossing.
+
+Foreground includes local residents, commuters, cyclists, travelers, shoppers, students, and café visitors.
+
+People should naturally reflect Tokyo street fashion, local lifestyle, and modern urban culture.
+
+Background filled with authentic Japanese signage, cafés, ramen shops, convenience stores, transport signs, storefronts, vending machines, and architectural details.
+
+Landmarks should blend subtly into daily life rather than dominate the composition.
+
+Use authentic Japanese typography and culturally recognizable visual elements.
+
+Large centered title at the top: "TOKYO"
+
+Subtitle at the bottom in Japanese: "日本" or "東京"
+
+STYLE:
+
+Ultra-clean vector illustration
+
+Swiss modernist travel poster aesthetic
+
+Minimalist line-art
+
+Monoline drawing
+
+Mid-century editorial illustration style
+
+Architectural illustration
+
+Japanese graphic poster design
+
+Crisp geometric perspective
+
+Extremely clean negative space
+
+Premium travel-brand aesthetic
+
+LINE STYLE:
+
+Monochrome line illustration only
+
+Thin, highly precise lines
+
+Minimal fill areas
+
+Intricate city-map-level detailing
+
+Rhythmic arrangement of signs, buildings, windows, cables, and street objects
+
+Visually dense yet highly organized composition
+
+COLOR SYSTEM — VERY IMPORTANT:
+
+Use only ONE primary ink color + ONE background color
+
+Automatically select the color pairing that best represents Tokyo's atmosphere
+
+Monochrome silkscreen poster aesthetic
+
+No rainbow palettes
+
+No excessive neon
+
+Color should reflect Tokyo's architecture, nightlife, urban energy, and cultural identity
+
+Recommended palette for Tokyo:
+
+Bright Japanese red ink on warm ivory background
+
+COMPOSITION:
+
+Vertical poster layout
+
+Frontal street-level perspective
+
+Pedestrians naturally crossing streets and moving through the scene
+
+Balanced urban rhythm and visual flow
+
+Should feel like a premium city-brand campaign poster
+
+MOOD:
+
+Stylish urban life
+
+Calm yet lively atmosphere
+
+High-end travel magazine cover aesthetic
+
+Timeless city identity
+
+Premium tourism campaign visuals
+
+Minimalist yet highly detailed
+
+TEXT QUALITY — EXTREMELY IMPORTANT:
+
+All typography must be clean, readable, and professionally designed
+
+No random symbols
+
+No broken or distorted letters
+
+Japanese signage must appear authentic and natural
+
+High-end editorial typography layout
+
+OUTPUT:
+
+Vertical poster composition
+
+Ultra-detailed 8K resolution
+
+Print-ready
+
+Ultra-precise vector-quality rendering
+```
+
+**Output**:
+
+<img src="../images/poster_case239/output.jpg" width="500">
+
+---
+
+### Case 240: Minimalist City Line-Art Travel Poster
+
+**Source**: [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2053474337404117220)
+
+**Prompt**:
+```
+Create a minimalist travel-poster style line art illustration of [CITY NAME], in a vertical poster format. Use clean architectural ink drawing lines with a monochrome palette (black, sepia, or muted red tones) on an off-white background. Feature an iconic landmark of the city centered in the distance, with detailed urban street perspective leading toward it. Include pedestrians crossing the street, cyclists, cars, storefronts, traffic lights, street signs, subway/metro signs, and local cultural details unique to the city. Add realistic building facades with fine line detail and light shading.
+At the top, place the city name in very large bold modern sans-serif typography. At the bottom, add the country name and native-language text in a minimalist layout. Keep the composition symmetrical and balanced like a premium vintage travel poster mixed with modern Japanese editorial design.
+Style keywords: ultra detailed line art, architectural sketch, urban perspective drawing, clean vector ink illustration, travel poster aesthetic, minimal monochrome, cinematic street scene, soft beige paper texture, highly detailed cityscape, contemporary poster design, elegant typography, Muji-style minimalism.
+```
+
+**Output**:
+
+<img src="../images/poster_case240/output.jpg" width="500">
+
+---
