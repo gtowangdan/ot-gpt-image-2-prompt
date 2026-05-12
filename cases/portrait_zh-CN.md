@@ -1269,3 +1269,33 @@ Ultra-realistic cozy Korean convenience store portrait of the same woman standin
 <img src="../images/portrait_case167/output.jpg" width="500">
 
 ---
+
+### Case 168: Blush Pink Korean Editorial Portrait
+
+**Source**: [@LufzzLiz](https://x.com/LufzzLiz/status/2053830981438918703)
+
+**Prompt**:
+```
+Elegant Korean female model in blush pink satin slip dress with delicate spaghetti straps, V-neckline, leaning gracefully against floor-to-ceiling window in elegant over-the-shoulder pose, golden hour backlighting creating soft glow, refined beauty editorial, blush and rose gold palette, minimalist luxury penthouse interior, Vogue Korea style fashion photography, cinematic bokeh
+```
+
+**Output**:
+
+<img src="../images/portrait_case168/output.jpg" width="500">
+
+---
+
+### Case 169: French Vintage Oil-Painting Portrait Collage
+
+**Source**: [@zhongying14](https://x.com/zhongying14/status/2053794975268143389)
+
+**Prompt**:
+```
+
+```
+
+**Output**:
+
+<img src="../images/portrait_case169/output.jpg" width="500">
+
+---

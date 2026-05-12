@@ -2815,3 +2815,590 @@ Style keywords: ultra detailed line art, architectural sketch, urban perspective
 <img src="../images/poster_case240/output.jpg" width="500">
 
 ---
+
+### Case 241: Kids Fashion Editorial Poster
+
+**Source**: [@ChillaiKalan__](https://x.com/ChillaiKalan__/status/2053761999583297716)
+
+**Prompt**:
+```
+Create a premium playful kids-fashion editorial poster for [BRAND NAME].
+
+TOPIC:
+[KIDS FASHION / CHILDHOOD CAMPAIGN]
+
+STYLE & ART DIRECTION:
+
+Cute playful studio aesthetic
+
+Korean kids-fashion photography style
+
+Monochromatic color-coordinated composition
+
+Minimal lifestyle editorial branding
+
+Bright cheerful atmosphere
+
+Pinterest-inspired kids campaign
+
+Soft studio photography
+
+Fun doodle typography design
+
+Modern children-brand commercial aesthetic
+
+Clean playful composition
+
+MAIN SUBJECT:
+
+A realistic happy child prominently seated or posed in the center
+
+Coordinated fashion outfit matching the props and background
+
+Cute expressive smile and playful emotion
+
+Fashionable kids styling
+
+A large playful prop integrated into the composition (telephone / toy / chair / object)
+
+Premium realistic children photography
+
+Bright emotional atmosphere
+
+Soft realistic shadows beneath all objects
+
+Strong color harmony across all elements
+
+LAYOUT & COMPOSITION:
+
+Same exact playful editorial composition and structure as the reference design
+
+Child centered prominently
+
+Single-color studio background
+
+Large playful typography integrated into the composition
+
+Hand-drawn doodles and sketch graphics around the subject
+
+Spacious clean layout
+
+Minimal visual clutter
+
+Pinterest-style commercial hierarchy
+
+Soft balanced composition
+
+TEXT & TYPOGRAPHY:
+
+Playful handwritten typography
+
+Rounded children-brand fonts
+
+Fun doodle text style
+
+Cute lifestyle-brand hierarchy
+
+Main playful text:
+"[MAIN PLAYFUL TEXT]"
+
+Small supporting text:
+"[KIDS CAMPAIGN TAGLINE]"
+
+DEPTH & LIGHTING:
+
+Soft studio lighting
+
+Bright cheerful shadows
+
+Smooth realistic skin tones
+
+High-key photography atmosphere
+
+Soft editorial depth
+
+Premium commercial reflections
+
+EXTRA DESIGN DETAILS:
+
+Hand-drawn doodles
+
+Speech bubbles
+
+Cute sketch lines
+
+Minimal playful icons
+
+Scribble graphics
+
+Fun childlike visual accents
+
+Lifestyle decorative typography
+
+COLOR PALETTE:
+
+[PRIMARY MONOCHROMATIC COLOR]
+
+Soft pastel accents
+
+White playful typography
+
+Coordinated fashion tones
+
+QUALITY:
+
+Ultra realistic kids photography
+
+Premium children-brand campaign
+
+Pinterest-quality editorial design
+
+Behance-level playful composition
+
+Same exact visual identity and layout as the reference
+
+Ultra high resolution
+```
+
+**Output**:
+
+<img src="../images/poster_case241/output.jpg" width="500">
+
+---
+
+### Case 242: High-Fashion Editorial Poster Template
+
+**Source**: [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2053814655655543119)
+
+**Prompt**:
+```
+
+```
+
+**Output**:
+
+<img src="../images/poster_case242/output.jpg" width="500">
+
+---
+
+### Case 243: Japanese Whimsical Folk-Art Illustration
+
+**Source**: [@sha_zdiii](https://x.com/sha_zdiii/status/2053810777786835445)
+
+**Prompt**:
+```
+Create a cozy Japanese-inspired whimsical folk-art illustration of a cute stylish [girl/boy/couple] in a dreamy handmade storybook aesthetic. The character should look youthful, soft-featured, adorable, and aesthetically fashionable with gentle glossy eyes, rosy cheeks, and elegant proportions. Keep the overall vibe warm, calming, artistic, and premium like a trendy Japanese café poster mixed with modern Pinterest folk-art.
+Scene theme: [Japanese café / cozy street / bookstore / tea shop / flower market / convenience store / rainy Tokyo alley / picnic / classroom / bicycle street]
+Character details:
+[Girl/Boy/Couple]
+Outfit color: [sage green / muted coral / dusty blue / cream / terracotta / pastel yellow]
+Hairstyle: [soft bangs / wavy hair / short fluffy hair / tied bun / long silky hair]
+Expression: [gentle smile / shy look / cozy happy vibe / soft eye contact]
+Pose: [walking / holding coffee / sitting / looking at camera / talking together]
+Background elements:
+Japanese lanterns
+Cute café boards
+Japanese handwritten typography
+Small Japanese posters and stickers
+Tiny flowers and leaves
+Decorative hearts and stars
+Bicycle / vending machine / tea cups / books / plants
+Soft doodle borders around the composition
+Add aesthetic Japanese text naturally in the background: [Japanese café signs] [Japanese handwritten quotes] [vertical Japanese typography] [small Japanese labels and stamps]
+
+Color palette: [(sage green), (muted coral), (butter yellow), (warm cream), (dusty turquoise), (soft peach), (deep teal accents)]
+
+Art style:
+Hand-painted marker texture
+Gouache-style brush strokes
+Soft uneven outlines
+Visible paper grain
+Handmade imperfect beauty
+Simplified flat illustration shapes
+Cozy Japanese stationery aesthetic
+Premium editorial composition
+Balanced clean layout with negative space
+Rendering style: ultra detailed handcrafted illustration, Japanese folk-art fusion, whimsical doodle aesthetic, cozy lifestyle artwork, painterly flat design, trendy viral Pinterest illustration style, premium storybook poster, cute Japanese café vibe
+
+Negative prompt: avoid exact copy of Pinterest styles, avoid messy composition, avoid neon oversaturated colors, avoid anime exaggeration, avoid cluttered background, avoid generic AI look, avoid repetitive flowers everywhere, avoid low detail faces.
+```
+
+**Output**:
+
+<img src="../images/poster_case243/output.jpg" width="500">
+
+---
+
+### Case 244: Cinematic Character Design Sheet
+
+**Source**: [@Mind_Boticni](https://x.com/Mind_Boticni/status/2053843881553502219)
+
+**Prompt**:
+```
+Create a high-end cinematic character design sheet intended for a premium film production.
+The layout should feel like a curated art direction board rather than a rigid template. Avoid symmetrical grids, uniform spacing, or overly structured presentation. Instead, the composition should feel organic, slightly asymmetrical, and thoughtfully arranged like a real Hollywood concept pitch.
+Design a grounded, realistic human character with believable body proportions, natural imperfections, and expressive performance-driven presence—like a professional actor captured during emotional and physical performance moments rather than a posed mannequin.
+Use a bright, clean, and well-lit background that enhances clarity and gives the sheet a fresh, modern studio feel.
+Include:
+• Full-body turnaround views (front, 3/4 front, side, back, 3/4 back)
+
+• Multiple expressive facial studies from different angles showing emotional range
+• A cinematic hero portrait with strong character focus
+
+• Detailed breakdown of costume, accessories, and key props
+
+• Close-up studies of materials such as fabric texture, skin detail, and surface realism
+
+• Handwritten-style annotation notes, production markings, and design insights
+
+•A clear height reference scale integrated naturally into the composition
+The character should feel like a real person existing in a film world—authentic, grounded, and emotionally alive rather than stylized or overly idealized.
+Art direction style:
+
+Semi-realistic cinematic design, high-budget film production quality, soft natural studio lighting with a bright tone, subtle depth of field, realistic material rendering, and emotionally readable expressions. Presentation should feel like a professional concept art portfolio used in major film pre-production.
+Consistency requirement:
+
+Maintain perfect continuity in facial identity, body proportions, hairstyle, outfit design, and material details across all angles and studies.
+```
+
+**Output**:
+
+<img src="../images/poster_case244/output.jpg" width="500">
+
+---
+
+### Case 245: Minimal Fashion Product Ad Poster
+
+**Source**: [@harboriis](https://x.com/harboriis/status/2053813021592506439)
+
+**Prompt**:
+```
+Create a high-end fashion product advertisement poster in portrait 4:5 ratio, clean minimal editorial style using a reference product image. Background is a warm off-white to light khaki gradient studio setup, very minimal, soft, airy, with subtle warm tones. Main product: an olive army green oversized waffle-knit long sleeve crewneck shirt, ghost-hung on a silver metal clothing rack stand with a visible clamp at the top-right. The shirt hangs naturally with slight drape, front-facing. On the center chest, include white puff embroidery text: “SVG” (first line with 3 small 4-point star inside the V), “STUDIOS W.I.P” (second line), “MOVEMENT THROUGH UNITY” (third line, slightly smaller), “SS26 - 29213” (fourth line, smallest). Add a small dark navy woven label patch on the right hem side seam and a visible dark navy neck tag at the collar. Typography: top center minimal brand logo “SVG STUDIOS” in olive green clean sans-serif, top-left italic cursive “Field” with a small dark olive rectangle badge below reading “edition” in white, behind the shirt place massive ultra-condensed olive green text “WAFFLE TEE” partially hidden and cut by the product, bleeding off edges. lower-left include handwritten “SVG” and large cursive “Studios” in olive tone. Bottom section features three diagonal detail strips: macro waffle-knit texture, closeup puff embroidery stitching, and closeup dark navy neck label, all with warm studio lighting. Between strips include small text “Built for movement, designed for unity. The SVG Studios WIP Waffle Longsleeve — SS26 Collection” Footer includes 4 small barcode at bottom-left, centered text “• WWW. SVGSTUDIOS. COM • • •” in spaced caps olive tone, and small text “MADE IN MALAYSIA • SS26 COLLECTION”. Color palette is olive army green, warm cream, and dark navy only. Overall style is clean editorial fashion lookbook, military-inspired streetwear campaign, soft diffused lighting, high contrast product focus, photorealistic, ultra detailed, 8K quality.
+```
+
+**Output**:
+
+<img src="../images/poster_case245/output.jpg" width="500">
+
+---
+
+### Case 246: COSMED Anime Commercial Poster
+
+**Source**: [@Kashberg_0](https://x.com/Kashberg_0/status/2053763810423664652)
+
+**Prompt**:
+```
+Create a premium anime-style commercial poster inspired by a real Taiwanese COSMED beauty store collaboration campaign. Vertical layout with a strong split composition: bold typography panel on the left and cinematic anime character scene on the right. Feature a stylish anime girl with short brown hair and expressive eyes wearing a white COSMED-branded windbreaker jacket with orange accents, holding a skincare serum bottle inside a modern beauty store filled with cosmetics and glowing shelves. Include transparent shopping bag with beauty products, realistic packaging details, soft cinematic lighting, glossy reflections, luxury skincare advertising aesthetic, warm orange and cream color palette, highly detailed anime rendering, Makoto Shinkai + modern commercial anime style, ultra-clean typography, realistic folds and textures, lifestyle branding atmosphere, elegant Japanese/Taiwanese retail design, depth of field, premium magazine advertisement look. Large bold text on left side: “BEAUTY IN LIFE. CARE IN EVERY CHOICE.” Include subtle molecular graphics and beauty icons. Ultra detailed, 8K, cinematic anime illustration, poster design, professional advertising composition, high-end retail campaign aesthetic --ar 2:3
+
+FamilyMart × AnimePoster Prompt:
+Create a cinematic anime-style convenience store collaboration poster inspired by FamilyMart Taiwan. Vertical commercial poster layout with bold typography section on the left and anime character portrait on the right. Feature a cool blond anime boy wearing a navy-blue FamilyMart jacket with green and white accents, standing inside a neon-lit FamilyMart at night while holding a hot coffee cup. Background filled with convenience store shelves, glowing signs, vending machines, and cyberpunk-inspired blue lighting reflections. Add subtle chain accessories and urban street atmosphere. Typography should feel bold and modern with giant white slogan text: “EVERY DAY, MORE FOR YOU.” Premium anime illustration style with realistic lighting, glossy textures, cinematic shadows, detailed eyes, modern Japanese advertising design, blue-green color palette, retail branding aesthetic, ultra-detailed convenience store environment, lifestyle commercial vibe, anime x corporate collaboration campaign, 8K quality, dramatic depth of field, polished poster composition --ar 2:3
+
+POYA × Yu Yu Hakusho Poster Prompt:
+Create a high-end anime commercial poster inspired by a POYA beauty store collaboration with Yusuke Urameshi from Yu Yu Hakusho. Vertical split-layout advertisement with bright pink branding panel on the left and detailed anime character scene on the right. Feature Yusuke Urameshi wearing a stylish pink-and-white POYA varsity jacket while holding a cosmetic skincare bottle inside a glowing pink beauty store filled with premium products and neon signage. Include branded shopping bags, cosmetic displays, reflective surfaces, luxury beauty campaign atmosphere, feminine yet edgy fashion aesthetic. Large bold white typography on left side saying: “BEAUTY IS MY POWER. POYA IS MY CHOICE.” Use vibrant pink neon lighting, glossy magazine-quality rendering, cinematic anime shading, detailed hair highlights, dramatic retail lighting, premium product advertisement composition, Japanese commercial poster design, elegant beauty branding, ultra detailed 8K anime artwork, modern lifestyle campaign aesthetic --ar 2:3
+
+McDonald’s × One Piece  Poster Prompt:
+Create a bold anime crossover advertisement poster featuring Monkey D. Luffy working at McDonald’s in an official collaboration campaign style. Vertical commercial poster with iconic McDonald’s red-and-yellow branding. Split composition with oversized slogan typography on the left and cinematic anime scene on the right. Feature Luffy wearing a McDonald’s employee uniform inspired by One Piece aesthetics,smiling confidently inside a warmly lit McDonald’s restaurant. Include french fries, glowing menu boards.
+```
+
+**Output**:
+
+<img src="../images/poster_case246/output.jpg" width="500">
+
+---
+
+### Case 247: Yumi's Cells Anime Poster
+
+**Source**: [@ZaraIrahh](https://x.com/ZaraIrahh/status/2053861275503890861)
+
+**Prompt**:
+```
+I am “VIRGO.” Create a poster inspired by Yumi’s Cells with the same soft, aesthetic, slice-of-life vibe and background style, while fully reflecting the Virgo zodiac theme in the design. The subject’s face must remain completely unchanged and untouched. Surround the subject with multiple small, raw yet realistic cute chibi-style mini 3D versions of the subject, designed like expressive “cells” with oversized heads, glossy high-detail finishes, and playful emotions. Each mini character should reflect Virgo traits such as organization, perfectionism, intelligence, neatness, overthinking, helpfulness, and calm focus. Show them in different actions: one clinging onto the subject’s arm, one reading a book carefully, one writing notes or checking a list, one drinking coffee while concentrating, one lying down using a phone while researching something, one making a wacky but slightly judgmental face, one looking tired or stressed from overthinking, one tidying things up, one pointing out details, and one with slightly messy “worked too hard” hair energy. Add playful hand-drawn doodles interacting directly with the subject and chibi characters—checklists, arrows, tiny labels, sparkles, paper-note doodles, neat outline sketches, and visual reactions to their actions to enhance movement and storytelling. Use a clean aesthetic composition, white sticker outlines, soft pastel sage, cream, soft olive, dusty beige, and light blue tones, high-detail glossy 3D chibi look, cute Korean-inspired design, with a raw natural poster feel, and the Virgo identity clearly integrated into the overall concept.
+```
+
+**Output**:
+
+<img src="../images/poster_case247/output.jpg" width="500">
+
+---
+
+### Case 248: Japanese Graffiti Street Poster
+
+**Source**: [@Shorelyn_](https://x.com/Shorelyn_/status/2053733398502645760)
+
+**Prompt**:
+```
+Create a high-detail portrait poster in a bold Japanese graffiti-inspired art style, combining modern urban street aesthetics with expressive Japanese visual culture. The poster should feature dynamic graffiti typography, layered spray-paint textures, hand-drawn symbols, abstract paint splashes, neon brush strokes, urban sticker elements, Japanese calligraphy accents, and decorative ornaments that strongly reinforce the energetic atmosphere of the design. The overall composition should feel artistic, rebellious, fashionable, and visually striking, while still maintaining a premium editorial poster quality instead of looking messy or overdone. Humanity somehow turned vandalism into luxury wall art. Impressive species.
+
+The subject must not replicate the exact pose or expression from the reference photo. Instead, create a completely new pose that feels natural, confident, and full of life. The expression should appear emotionally expressive, charismatic, and engaging, avoiding stiff, awkward, flat, or emotionless body language. The pose should reflect the elegance and sophistication commonly seen in international fashion models, with stylish posture, natural movement, and subtle attitude that enhances the overall cinematic fashion aesthetic.
+
+The outfit should feature contemporary stylish casual fashion with strong visual appeal. Avoid plain or repetitive clothing designs. Use fashionable layering, modern streetwear inspiration, premium casual styling, and a balanced combination of colors, patterns, textures, and fabric types that create a rich and non-monotonous appearance. The clothing should feel trendy, fashionable, youthful, and visually premium while still fitting naturally into the Japanese graffiti poster concept.
+
+The background and poster decorations should be filled with thematic urban Japanese-inspired visual elements such as graffiti walls, spray textures, painted symbols, urban signage, layered stickers, modern Japanese graphic motifs, abstract shapes, paint drips, street fashion aesthetics, and stylish decorative compositions that enhance depth and artistic intensity without distracting from the subject.
+
+Lighting should feel cinematic and fashionable, with strong contrast, clean highlights, realistic skin texture, and high-end editorial poster quality. The final result must look like a premium modern street-fashion campaign poster with highly detailed textures, balanced composition, vibrant color harmony, realistic proportions, ultra-sharp focus, and immersive visual storytelling.
+
+Ultra-detailed, highly aesthetic, premium composition, realistic texture rendering, fashionable urban atmosphere, cinematic quality, poster-ready design, 8K ultra high resolution.
+```
+
+**Output**:
+
+<img src="../images/poster_case248/output.jpg" width="500">
+
+---
+
+### Case 249: Brand City Takeover Poster
+
+**Source**: [@harboriis](https://x.com/harboriis/status/2053879429265572226)
+
+**Prompt**:
+```
+Using the brand name “[BRAND NAME]”, create a highly detailed cinematic poster:
+
+“HOW [BRAND NAME] TAKES OVER A CITY”
+
+GOAL:
+Show the brand expanding across an entire city ecosystem until it becomes impossible to ignore.
+
+This must feel like:
+global campaign rollout + futuristic city domination + luxury advertising ecosystem.
+
+The brand should appear integrated naturally into the city, not random logo placement.
+
+CORE RULE:
+
+Everything must be visually inspired by the brand identity of “[BRAND NAME]”:
+
+brand colors
+
+typography style
+
+design language
+
+visual energy
+
+aesthetic mood
+
+The city itself should begin to feel transformed by the brand identity.
+
+MAIN STRUCTURE:
+
+Vertical 4:5 poster
+Dense multi layered composition
+Huge cinematic city scene mixed with many smaller detail panels
+
+TOP SECTION:
+
+Include:
+
+“[BRAND NAME]” logo or wordmark
+
+Campaign title
+
+Short slogan (max 5 words)
+
+Example slogans:
+
+“The City Wears [BRAND NAME]”
+
+“One Brand. Everywhere.”
+
+“The Future Is [BRAND NAME]”
+
+“This City Runs On [BRAND NAME]”
+
+MAIN HERO SCENE:
+
+Show a massive cinematic city environment where “[BRAND NAME]” has become dominant.
+
+Include:
+
+giant digital billboards
+
+skyscraper LED screens
+
+branded taxis
+
+buses
+
+train wraps
+
+storefronts
+
+public transport stations
+
+branded cafés
+
+interactive street ads
+
+branded drones or futuristic media systems
+
+The city should feel alive and overloaded with coordinated branding.
+
+CITY ENVIRONMENT:
+
+Create:
+
+realistic streets
+
+crowds of people
+
+traffic
+
+nightlife
+
+urban lighting
+
+weather atmosphere
+
+The branding should blend naturally into the environment.
+
+MICRO SCENES:
+
+Around the main scene, include many smaller panels showing:
+
+people using branded products
+
+social media campaign visuals
+
+branded pop up events
+
+digital ads on phones
+
+branded shopping bags
+
+influencer campaigns
+
+café branding
+
+event installations
+
+giant building projections
+
+ADVERTISEMENT SYSTEM:
+
+OUTDOOR:
+
+billboards
+
+LED towers
+
+transit ads
+
+street posters
+
+DIGITAL:
+
+mobile ads
+
+social media ads
+
+app UI
+
+interactive screens
+
+PHYSICAL:
+
+packaging
+
+shopping bags
+
+uniforms
+
+vehicles
+
+VISUAL DETAILS:
+
+Add:
+
+glowing reflections
+
+rain reflections on streets
+
+holographic screens
+
+animated signage
+
+crowds interacting with ads
+
+city lights matching the brand palette
+
+COLOR SYSTEM:
+
+Strictly derived from the brand identity colors.
+
+Use:
+
+lighting
+
+reflections
+
+atmosphere
+
+ad screens
+
+to reinforce the brand identity.
+
+STYLE:
+
+cinematic urban realism
+
+futuristic advertising aesthetic
+
+dense but readable
+
+luxury campaign presentation
+
+Inspired by:
+
+Tokyo/Shibuya LED overload
+
+Times Square campaigns
+
+cyberpunk city advertising
+
+luxury fashion campaign rollouts
+
+DEPTH:
+
+40 to 80 visual elements
+
+layered foreground/midground/background
+
+multiple scales of detail
+
+IMPORTANT RULES:
+
+no random logo spam
+
+branding must feel intelligently integrated
+
+every ad placement should feel intentional
+
+no empty areas
+
+city must still feel believable
+
+FINAL FEEL:
+
+Like:
+
+a billion dollar global campaign launch
+
+a cinematic city takeover
+
+a futuristic luxury advertising ecosystem
+
+NOT:
+
+generic mockups
+
+flat layouts
+
+repetitive placements
+```
+
+**Output**:
+
+<img src="../images/poster_case249/output.jpg" width="500">
+
+---

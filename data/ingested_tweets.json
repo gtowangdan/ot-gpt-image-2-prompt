@@ -1,6 +1,6 @@
 {
   "repo": "awesome-gpt-image-2-prompts",
-  "generated_at": "2026-05-11T10:00:00+08:00",
+  "generated_at": "2026-05-12T13:00:00+08:00",
   "primary_key": "tweet_url",
   "records": [
     {
@@ -4932,6 +4932,102 @@
       "case_number": 173,
       "suggested_title": "Berry Loud Acai Bowl Food Ad",
       "ingested_at": "2026-05-11T10:00:00+08:00"
+    },
+    {
+      "author": "egeberkina",
+      "case_number": 142,
+      "category": "ui",
+      "ingested_at": "2026-05-12T13:00:00+08:00",
+      "suggested_title": "Live Wimbledon Broadcast Screenshot",
+      "tweet_url": "https://x.com/egeberkina/status/2053931249794691081"
+    },
+    {
+      "author": "LufzzLiz",
+      "case_number": 168,
+      "category": "portrait",
+      "ingested_at": "2026-05-12T13:00:00+08:00",
+      "suggested_title": "Blush Pink Korean Editorial Portrait",
+      "tweet_url": "https://x.com/LufzzLiz/status/2053830981438918703"
+    },
+    {
+      "author": "zhongying14",
+      "case_number": 169,
+      "category": "portrait",
+      "ingested_at": "2026-05-12T13:00:00+08:00",
+      "suggested_title": "French Vintage Oil-Painting Portrait Collage",
+      "tweet_url": "https://x.com/zhongying14/status/2053794975268143389"
+    },
+    {
+      "author": "ChillaiKalan__",
+      "case_number": 241,
+      "category": "poster",
+      "ingested_at": "2026-05-12T13:00:00+08:00",
+      "suggested_title": "Kids Fashion Editorial Poster",
+      "tweet_url": "https://x.com/ChillaiKalan__/status/2053761999583297716"
+    },
+    {
+      "author": "SimplyAnnisa",
+      "case_number": 242,
+      "category": "poster",
+      "ingested_at": "2026-05-12T13:00:00+08:00",
+      "suggested_title": "High-Fashion Editorial Poster Template",
+      "tweet_url": "https://x.com/SimplyAnnisa/status/2053814655655543119"
+    },
+    {
+      "author": "sha_zdiii",
+      "case_number": 243,
+      "category": "poster",
+      "ingested_at": "2026-05-12T13:00:00+08:00",
+      "suggested_title": "Japanese Whimsical Folk-Art Illustration",
+      "tweet_url": "https://x.com/sha_zdiii/status/2053810777786835445"
+    },
+    {
+      "author": "Mind_Boticni",
+      "case_number": 244,
+      "category": "poster",
+      "ingested_at": "2026-05-12T13:00:00+08:00",
+      "suggested_title": "Cinematic Character Design Sheet",
+      "tweet_url": "https://x.com/Mind_Boticni/status/2053843881553502219"
+    },
+    {
+      "author": "harboriis",
+      "case_number": 245,
+      "category": "poster",
+      "ingested_at": "2026-05-12T13:00:00+08:00",
+      "suggested_title": "Minimal Fashion Product Ad Poster",
+      "tweet_url": "https://x.com/harboriis/status/2053813021592506439"
+    },
+    {
+      "author": "Kashberg_0",
+      "case_number": 246,
+      "category": "poster",
+      "ingested_at": "2026-05-12T13:00:00+08:00",
+      "suggested_title": "COSMED Anime Commercial Poster",
+      "tweet_url": "https://x.com/Kashberg_0/status/2053763810423664652"
+    },
+    {
+      "author": "ZaraIrahh",
+      "case_number": 247,
+      "category": "poster",
+      "ingested_at": "2026-05-12T13:00:00+08:00",
+      "suggested_title": "Yumi's Cells Anime Poster",
+      "tweet_url": "https://x.com/ZaraIrahh/status/2053861275503890861"
+    },
+    {
+      "author": "Shorelyn_",
+      "case_number": 248,
+      "category": "poster",
+      "ingested_at": "2026-05-12T13:00:00+08:00",
+      "suggested_title": "Japanese Graffiti Street Poster",
+      "tweet_url": "https://x.com/Shorelyn_/status/2053733398502645760"
+    },
+    {
+      "author": "harboriis",
+      "case_number": 249,
+      "category": "poster",
+      "ingested_at": "2026-05-12T13:00:00+08:00",
+      "suggested_title": "Brand City Takeover Poster",
+      "tweet_url": "https://x.com/harboriis/status/2053879429265572226"
     }
   ]
 }
