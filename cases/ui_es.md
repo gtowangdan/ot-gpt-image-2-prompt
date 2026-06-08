@@ -2367,3 +2367,206 @@ Frame Breakdown Includes: — accidentally boarding the wrong vaporetto and enth
 
 Style: ultra-realistic travel vlog collage, Venice street photography, handheld smartphone camera aesthetic, imperfect framing, accidental photobombs, candid expressions, genuine laughter, iconic Venetian architecture, canals, gondolas, historic bridges, hidden alleyways, European summer atmosphere, natural lighting, motion blur, lens flares, overexposed highlights, authentic memories, cinematic storytelling, high-detail realism, viral travel content, no studio polish, no posing, spontaneous documentary-style moments, social media realism, chaotic vacation energy, luxury travel influencer aesthetic.
 ```
+
+---
+### Case 178: Modern Recipe Infographic Board
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2063724080717783194)
+
+**Resultado**:
+
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case178/output.jpg" width="500" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Ultra-clean modern recipe infographic. Showcase your dish in a visually appealing finished form, sliced, plated, or portioned, floating slightly in perspective or angled view. Arrange ingredients, steps, and tips around the dish in a dynamic editorial layout, not top-down. Ingredients: include icons or mini illustrations for each ingredient with quantities, arranged in clusters, lists, or circular flows connected visually to the dish. Steps: show preparation steps with numbered panels, arrows, or lines forming a logical flow. Include small cooking icons (knife, pan, oven, timer) where helpful. Optional info: total calories, prep/cook time, servings, spice level displayed as clean bubbles or badges. Visual style: editorial infographic meets lifestyle food photography. Vibrant natural food colors, subtle drop shadows, clean vector icons, modern typography, soft gradients or glassmorphism for step panels. Accent colors highlight key info. Composition: finished meal as hero visual (perspective or angled), ingredients and steps flow dynamically around the dish, clear visual hierarchy, enough negative space to keep design airy and readable. Lighting: soft natural studio lighting, minimal textured or gradient background for premium editorial feel. Output: 1080x1080, ultra-crisp, social-feed optimized.
+
+Full prompt:
+```
+
+---
+### Case 179: INNER SIGNAL Brand Poster Series
+
+**Source**: [@bmx_ai13](https://x.com/bmx_ai13/status/2063726489905123489)
+
+**Resultado**:
+
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case179/output.jpg" width="500" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+👇
+{
+  "project_title": "INNER SIGNAL",
+  "concept_type": "Brand Identity Poster Series",
+  "brand_name": "SIGNAL",
+  "tagline": "FEED THE INNER SIGNAL",
+  "style": {
+    "look": "bold experimental editorial branding",
+    "mood": "mysterious, powerful, rebellious, premium",
+    "colors": ["black", "crimson red", "white"],
+    "lighting": "hard red light, deep shadows, high contrast",
+    "texture": "film grain, halftone, motion blur"
+  },
+  "design_rules": {
+    "typography": "bold uppercase sans-serif, Swiss-style layout",
+    "layout": "clean grid, strong negative space, recurring minimal logo mark",
+    "visual_language": "cinematic, fashion-forward, dark, sharp, minimal"
+  },
+  "brand_message": "Build identities that do not blend in. Designed for ambitious brands that want presence, confidence, and creative impact.",
+  "poster_series": [
+    {
+      "title": "The Two Selves",
+      "subject": "dark human silhouette with two blurred side profiles behind the head",
+      "meaning": "inner conflict, identity, duality",
+      "text_overlay": "FEED THE INNER SIGNAL.",
+      "prompt": "A bold branding poster with a lone dark silhouette against a glowing crimson red background. Two blurred shadow profiles appear behind the head, suggesting dual identity and inner voices. High contrast red and black lighting, minimal white logo mark, bold uppercase typography, cinematic editorial style, film grain, clean Swiss layout."
+    },
+    {
+      "title": "The Crowd Signal",
+      "subject": "crowd silhouettes facing a giant glowing red screen",
+      "meaning": "presence, influence, voice rising above noise",
+      "text_overlay": "SIGNALS RISE ABOVE NOISE.",
+      "prompt": "A premium poster showing a dark crowd in silhouette facing a large glowing red screen with abstract geometric shapes. The scene feels cinematic and intense, with black shadows, crimson atmosphere, subtle haze, white typography, and a modern branding layout."
+    },
+    {
+      "title": "The Focused Face",
+      "subject": "close-up portrait with a red line crossing the eyes",
+      "meaning": "clarity, vision, self-definition",
+      "text_overlay": "DESIGNED TO BE SEEN.",
+      "prompt": "A close-up fashion portrait of a person in deep shadow against a solid crimson background. A thin red band crosses the eyes, creating a futuristic and psychological feel. High-end editorial lighting, minimal white text, black clothing, premium poster design."
+    },
+    {
+      "title": "The Instinct",
+      "subject": "aggressive black dog or wolf under red light",
+      "meaning": "raw creative power, instinct, fearless energy",
+      "text_overlay": "RAISING THE STANDARD OF CREATIVE INSTINCT.",
+      "prompt": "A dark animal portrait poster featuring a black dog or wolf emerging from shadow under intense red lighting. Teeth visible, powerful expression, black background, white typography, bold brand aesthetic, gritty film texture, luxury editorial composition."
+    },
+    {
+      "title": "The Connection",
+      "subject": "black carabiner linking thick ropes",
+      "meaning": "systems, structure, trust, connection",
+      "text_overlay": "BRAND SYSTEMS. CREATIVE DIRECTION.",
+      "prompt": "A clean branding poster with a black metal carabiner connecting two thick ropes against a pure crimson red background. Glossy highlights, product-style lighting, centered composition, minimal white logo mark, Swiss typography, sleek premium design."
+    },
+    {
+      "title": "The Hidden Beast",
+      "subject": "abstract halftone tiger or leopard face",
+      "meaning": "ambition, hidden force, controlled danger",
+      "text_overlay": "FOR AMBITIOUS BRANDS THAT MOVE WITH INTENT.",
+      "prompt": "An abstract poster showing a tiger or leopard face formed with red halftone texture emerging from deep black space. Mysterious and intense mood, experimental print look, minimal white typography, strong contrast, premium creative studio identity."
+    }
+  ],
+  "master_prompt": "Create a 6-poster brand identity series for a fictional creative studio named SIGNAL. Use only black, crimson red, and white. The posters should feel cinematic, premium, rebellious, and intelligent. Use high-contrast editorial visuals, deep shadows, red lighting, film grain, halftone texture, bold uppercase typography, and minimal logo repetition. Themes include dual identity, influence, vision, instinct, connection, and ambition."
+}
+```
+
+---
+### Case 180: Industrial Packaging Design Sheet
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2063735848257167383)
+
+**Resultado**:
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case180/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case180/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Full prompt: 
+
+Using the attached image, create a professional industrial packaging design illustration sheet.
+
+Feature a centered hero 3D render with realistic materials, soft studio lighting, and commercial-grade finish quality. Surround the hero render with technical views: front, side, top, bottom, angled perspective, and flat layout.
+
+Include structural construction sketches, fold lines, seam details, and dimension arrows with measurements in millimeters. Show materials and finishes (matte, glossy print, plastic, paper, glass, etc.) using handwritten-style annotations. Add color swatches, realistic product illustrations, and subtle shadows.
+
+Background should resemble clean sketchbook paper, combining realistic rendering with pencil sketch overlays. Modern industrial design aesthetic, ultra-detailed, portfolio-ready presentation.
+```
+
+---
+### Case 181: Chrome Logo Editorial System
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2063644125510217787)
+
+**Resultado**:
+
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case181/output.jpg" width="500" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+prompt:
+
+[BRAND NAME]. You are a Senior 3D Product Visualization Artist and Cinematic Art Director specializing in luxury brand key visuals for high-end editorial and streetwear campaigns.
+
+PHASE 1: LOGO SUBJECT
+
+Identify the official logo/logotype of [BRAND NAME]. Render it with maximum fidelity to the original silhouette, proportions, and geometry — no distortion, no stylization. Extrude the logo into a solid 3D object with depth approximately 15–20% of its height. Coat all surfaces — front face, side extrusion, beveled edges — in hyper-polished liquid chrome (reflectance 0.98, near-perfect mirror). Apply full ray-traced environment reflections so the logo mirrors the surrounding sky gradient, flower field, and light sources. Moderate bevel radius on all hard edges to catch sharp specular highlights. Add Subsurface Scattering on thin structural parts (fine lines, serifs, icon details) for a subtle inner glow. Place 4–8 prismatic 4-point star lens-flare sparkles at highest specular peaks — corners, tips, curved peaks. Organic distribution, not uniform. Zero matte surfaces. Zero plastic look. The entire logo must read as cast from liquid silver.
+
+PHASE 2: ENVIRONMENT & BACKGROUND
+
+Background: wide cinematic landscape at golden-lilac hour (just after sunset). Dense flower field fills the lower third — lavender and white wildflowers with realistic micro-texture and subtle wind motion-blur on far clusters. Middle ground fades to soft purple-grey bokeh. Sky gradient: warm blush rose ( at horizon through lilac ( to cool powder blue ( at top. Add 3–5 silhouetted bird clusters in upper quadrants. Volumetric atmospheric haze on the horizon. Shift the environment's color palette to reflect [BRAND NAME]'s iconic brand identity — introduce the brand's signature hue as a tonal wash in the sky gradient or dominant flower color. The environment must feel art-directed specifically for this brand.
+
+PHASE 3: COMPOSITION & LAYOUT
+
+Format: 1:1 square. Chrome logo centered horizontally at vertical midpoint, monumental scale spanning 65–80% of frame width. Subtle 2–4 degree forced perspective tilt for dynamic energy without distorting logo recognition. Bottom edge of the logo grazes or slightly overlaps the top of the flower field, integrating the 3D object naturally. Logo casts a soft diffused shadow into the flowers. Lower-left corner: 2–3 lines of micro-copy in clean white sans-serif at minimal optical size — a poetic 3-line brand statement relevant to [BRAND NAME]'s heritage and aesthetic. Bottom-left: "[BRAND NAME]" in small caps logotype label. Bottom-right: a secondary flat 2D chrome version of the same logo as a finishing mark.
+
+PHASE 4: LIGHTING
+
+Primary: large soft area light from upper-left simulating post-sunset overcast sky — fully diffused, no hard shadows, 5800K with lilac tint overlay. Secondary: warm 3200K rim light grazing bottom and side edges from behind — golden separation halo between object and field. Global Illumination enabled — chrome logo realistically bounces and absorbs landscape ambient color. The field's purple tones should be faintly visible in the lower reflective surfaces. Volumetric god rays faintly visible through any logo negative space or cutouts.
+
+TECH SPECS
+
+Octane Render aesthetic. Ray Tracing: 16+ bounces. Depth of Field: f/11 equivalent — full logo sharp, far background in soft bokeh only. Tone mapping: lifted blacks, compressed highlights, filmic S-curve. Color grade: desaturated midtones, preserved pastels, cool shadow tones. Film grain: subtle (ISO 200 equivalent). Chromatic Aberration: 0.2–0.3px on peripheral logo edges only. Anti-aliasing: maximum. No AI-plastic normals. No smooth uniform shading. Microscopic surface imperfections on chrome required — micro-scratches, 0.5% roughness noise map. Mood: luxury brand retrospective editorial for Highsnobiety or AnOther Magazine.
+```
+
+---
+### Case 182: Skincare UGC Storyboard Board
+
+**Source**: [@WanderingC76](https://x.com/WanderingC76/status/2063797516731294055)
+
+**Resultado**:
+
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case182/output.jpg" width="500" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+(Luxury AI UGC skincare campaign board), warm beige aesthetic, beautiful female influencer with glowing healthy skin, holding a skincare serum bottle toward the camera, natural smile, cozy bedroom environment, soft natural daylight, realistic home setting, elegant neutral decor.
+
+Large hero portrait on the left side.
+
+Right side featuring (6 UGC storyboard panels):
+(Hook Shot),
+(Product Introduction),
+(Product Application),
+(Lifestyle Shot),
+(Results Shot),
+(Call To Action).
+
+Each panel showing realistic influencer actions and natural expressions.
+
+Bottom section featuring (Key Ingredients Box) with elegant skincare icons and ingredient highlights.
+
+Additional product close-ups, serum texture shots, lifestyle B-roll images, premium beauty advertising layout.
+
+(Soft Natural Lighting),
+(Real & Relatable),
+(Clean Editorial Design),
+(UGC Creator Style),
+(Premium Skincare Branding),
+(Warm Beige Color Palette),
+(Photorealistic),
+(Ultra Detailed),
+(Vertical 9:16),
+(8K Quality).
+
+Negative Prompt:
+watermark, logo, low quality, blurry, bad anatomy, distorted hands, cluttered layout, dark lighting, cartoon, CGI.
+```
